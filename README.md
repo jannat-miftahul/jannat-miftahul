@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miftahul Jannat</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Miftahul Jannat</h1>
 <h3 align="center">Solving problems, exploring ML</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
