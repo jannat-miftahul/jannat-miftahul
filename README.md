@@ -22,4 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jannat-miftahul&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jannat-miftahul" /></p>
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=jannat-miftahul&theme=dark" height="220" alt="streak graph" /></p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=jannat-miftahul&theme=dark" height="220" alt="streak graph"  />
+</div>
