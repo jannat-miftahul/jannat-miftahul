@@ -1,25 +1,27 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Miftahul%20Jannat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+<!-- Animated Header -->
 <p align="center">
-  <a href="https://github.com/jannat-miftahul">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Problem+Solver+%7C+ML+Enthusiast;Competitive+Programmer;Full+Stack+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Miftahul%20Jannat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Problem%20Solver%20|%20ML%20Enthusiast%20|%20Developer%20✨&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Animated Wave Greeting -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey there, I'm Miftahul!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">💻 Passionate About Building Cool Stuff • 🤖 ML Explorer • 🏆 Competitive Programmer</h3>
+
+<!-- Animated Line -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jannat-miftahul&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/jannat-miftahul?tab=followers">
-    <img src="https://img.shields.io/github/followers/jannat-miftahul?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/236541930-53c6e2dc-0e05-43a4-a5f6-4a5a6c3e4e6a.gif">
 
 -   🔭 I'm currently working on **Machine Learning Projects**
 -   🌱 I'm learning **Deep Learning & Neural Networks**
