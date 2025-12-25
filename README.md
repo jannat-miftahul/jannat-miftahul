@@ -22,10 +22,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
--   🤖 I'm currently working on **Machine Learning Projects**
--   🌱 I'm learning **Deep Learning & Neural Networks**
--   ⚡ Fun fact: I turn ☕ into code!
--   📫 Reach me at: **miftahuljannat.cs@gmail.com**
+-   🤖 I’m deepening my expertise in **Deep Learning & Neural Networks**, from CNNs to modern Transformer-based models.
+-   I love **Competitive Programming** and have solved 1000+ problems across CodeChef, Codeforces, and LeetCode.
+-   🚀 I enjoy building **Full Stack Web Apps** with React, Next.js, and Node.js that are both beautiful and functional.
+-   ☕ Fun fact: I’ve taught programming fundamentals to beginners and it made me a better problem solver.
+-   📫 Want to collaborate or discuss ideas? Reach me at: **miftahuljannat.cs@gmail.com**
 
 <br clear="right"/>
 
