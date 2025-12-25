@@ -1,13 +1,12 @@
-<!-- Animated Header -->
+<!-- Neon Line Decorations -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=200&section=header&text=Miftahul%20Jannat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=✨%20Problem%20Solver%20|%20ML%20Enthusiast%20|%20Developer%20✨&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <!-- Animated Wave Greeting -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey there, I'm Miftahul!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Miftahul Jannat!
 </h1>
 
 <h3 align="center">💻 Passionate About Building Cool Stuff • 🤖 ML Explorer • 🏆 Competitive Programmer</h3>
@@ -19,14 +18,12 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me :)
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/236541930-53c6e2dc-0e05-43a4-a5f6-4a5a6c3e4e6a.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
--   🔭 I'm currently working on **Machine Learning Projects**
+-   🤖 I'm currently working on **Machine Learning Projects**
 -   🌱 I'm learning **Deep Learning & Neural Networks**
--   💬 Ask me about **C++, Python, React, Problem Solving**
--   🏆 Competitive Programmer on **CodeChef & Codeforces**
 -   ⚡ Fun fact: I turn ☕ into code!
 -   📫 Reach me at: **miftahuljannat.cs@gmail.com**
 
