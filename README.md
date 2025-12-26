@@ -9,7 +9,7 @@
   Hi, I'm Miftahul Jannat!
 </h1>
 
-<h3 align="center">💻 Passionate About Building Cool Stuff • 🤖 ML Explorer • 🏆 Competitive Programmer</h3>
+<h3 align="center">Passionate About Building Cool Stuff • ML Explorer • Competitive Programmer</h3>
 
 <!-- Animated Line -->
 <p align="center">
