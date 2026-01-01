@@ -57,7 +57,7 @@
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Languages</b></summary>
+<summary><b> Languages</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" alt="Languages" />
@@ -65,7 +65,7 @@
 </details>
 
 <details open>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
+<summary><b> Frameworks & Libraries</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frameworks" />
@@ -73,7 +73,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Tools</b></summary>
+<summary><b> Databases & Tools</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,linux,figma,postman,vscode" alt="Tools" />
@@ -86,14 +86,14 @@
 
 <p align="center">
   <a href="https://github.com/jannat-miftahul">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannat-miftahul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannat-miftahul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jannat-miftahul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jannat-miftahul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jannat-miftahul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jannat-miftahul&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=jannat-miftahul&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
 </p>
 
