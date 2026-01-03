@@ -91,17 +91,17 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/jannat-miftahul">
     <img src="https://streak-stats.demolab.com/?user=jannat-miftahul&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
-</p> -->
+</p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jannat-miftahul">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jannat-miftahul&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/jannat-miftahul">
