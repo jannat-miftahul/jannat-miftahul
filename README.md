@@ -1,8 +1,3 @@
-<!-- Neon Line Decorations -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
 <!-- Animated Wave Greeting -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -10,11 +5,6 @@
 </h1>
 
 <h3 align="center">Passionate About Building Cool Stuff • ML Explorer • Competitive Programmer</h3>
-
-<!-- Animated Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
 
 ---
 
@@ -54,18 +44,14 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚡ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
       <h3>💻 Languages</h3>
     </td>
-    <td>
+    <td style="border: none;">
       <!-- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,java" alt="Languages" />
       <br><br> -->
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -77,11 +63,11 @@
     </td>
   </tr>
   
-  <tr>
-    <td align="center" width="200">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
       <h3>⚡ Frameworks & Libraries</h3>
     </td>
-    <td>
+    <td style="border: none;">
       <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks" /> -->
       <br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -92,11 +78,11 @@
     </td>
   </tr>
   
-  <tr>
-    <td align="center" width="200">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
       <h3>🤖 ML/AI & Data Science</h3>
     </td>
-    <td>
+    <td style="border: none;">
       <!-- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML/AI" />
       <br><br> -->
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -107,11 +93,11 @@
     </td>
   </tr>
   
-  <tr>
-    <td align="center" width="200">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
       <h3>🗄️ Databases</h3>
     </td>
-    <td>
+    <td style="border: none;">
       <!-- <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" alt="Databases" />
       <br><br> -->
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -120,11 +106,11 @@
     </td>
   </tr>
   
-  <tr>
-    <td align="center" width="200">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
       <h3>🔧 Tools & Technologies</h3>
     </td>
-    <td>
+    <td style="border: none;">
       <!-- <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker" alt="Tools" />
       <br><br> -->
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -136,9 +122,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </p>
 
 ---
